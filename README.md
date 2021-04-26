@@ -1,4 +1,4 @@
-# OWNDAYS Layout imitate
+# OWNDAYS Layout imitate(切版練習)
 
 ## DEMO:https://owndays-layout-imitate.herokuapp.com/
 
